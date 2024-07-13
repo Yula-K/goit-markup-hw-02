@@ -72,7 +72,7 @@ address {
 
 .address-list-item:hover,
 .address-list-item:focus {
-  background-color: #404bbf;
+  color: #404bbf;
 }
 
 .hero {
@@ -98,7 +98,7 @@ address {
 
 .hero-btn:hover,
 .hero-btn:focus {
-  color: #404bbf;
+  background-color: #404bbf;
   cursor: pointer;
 }
 
@@ -127,6 +127,7 @@ address {
 }
 
 .team {
+  background-color: #f4f4fd;
 }
 
 .team-title {
