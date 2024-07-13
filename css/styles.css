@@ -56,7 +56,7 @@ address {
 
 .header-list-item:hover,
 .header-list-item:focus {
-  background-color: #404bbf;
+  color: #404bbf;
 }
 
 .address-list {
@@ -72,7 +72,7 @@ address {
 
 .address-list-item:hover,
 .address-list-item:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 .hero {
@@ -136,6 +136,7 @@ address {
 }
 
 .team-item {
+  background-color: #ffffff;
 }
 
 .team-item-name {
